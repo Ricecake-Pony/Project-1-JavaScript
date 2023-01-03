@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<!--Metatag, css, defer script-->
+<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+<!-- <section> {color: #000080; } </section> -->
+<script defer src="index.js"></script>
+    </head>
+<body id="body">
+
+  <header>
+<h1>Welcome to Bon-APItite!</h1>
+  </header>
+
+<!--Your 5 keys are id, recipe-name, steps-to-make-recipe, ingredients, and image.-->
+
+
+
+<div id="container"> 
+</div>
+
+<!-- There should be two inputs, one for the recipe name and one for their thoughts/review of it -->
+<form id="recipe-review">
+  <label for="recipe-review-name">Enter Recipe Name You Tried:</label><br>
+  <input type="text" name="recipe-review-name"  id="recipe-review-name" placeholder="Recipe Name"/><br><br>
+  
+  <label for="thoughts-on-recipe">Tell Us Your Thoughts on The Recipe!</label><br>
+  <input type="text" name="thoughts-on-recipe" id="thoughts-on-recipe" placeholder="Your Thoughts"/>
+  <br><br>
+  <input
+          type="submit"
+          value="Submit Review"
+        />
+        
+</form><br><br><br>
+<section id="review-box">Recipe Reviews:</section>
+</body>
+</html>
+
+<!--HTML js functions for the lis/uls, make divs into food cards. (I.E. JS functions to create, make a div for holding each of the cards/recipes b/c its dynamic, can iterate the info through the card Don't need much inside the HTML You'll create it via JS.) Endpoint = baseUrl for example the resource, i.e. recipes. -->
+

@@ -1,0 +1,101 @@
+{
+"recipes" : [
+    {
+        "id": 1,
+        "recipe-name": "Mixed Nuts",
+        "steps-to-make-recipe": ["Mix a variety of nuts together"],
+        "ingredients": ["Grab 1/4 cup of each: walnuts, almonds, cashews, pine nuts, and pistachios."] ,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mixed_nuts_small_white1.jpg",
+
+        "reviews":[]
+
+    },
+    {
+        "id": 2,
+        "recipe-name": "Sour Patch Grapes",
+        "steps-to-make-recipe": [" Step1. Empty each Jell-O packet into its own gallon-size resealable plastic bag.", 
+        " Remove grapes from stems and rinse in a colander, shaking the colander to remove any excess water (grapes should be damp, not dripping wet). Squeeze lemon juice over grapes and toss with your hands so that all the grapes get lightly coated." ,  
+        " Place a handful of grapes in each bag of Jell-O mix, seal, then shake to coat." , 
+        "Remove from resealable bags and serve."],
+        
+        "ingredients": ["1 1/2 lb. green grapes", "1/2 lemon 1 package cherry Jell-o (3 oz.)", "1 package orange Jell-o (3 oz.)", "1 package lemon Jell-o (3 oz.)", "1 package lime Jell-o (3 oz.)"],
+        "image": "https://dinnerthendessert.com/wp-content/uploads/2015/08/White-Sour.jpg"
+    },
+    {
+        "id": 3,
+        "recipe-name": "Apple Sandwiches with Granola and Peanut Butter",
+        "steps-to-make-recipe": ["  If not eating immediately, brush the apples slices with lemon juice to keep them from turning brown.",
+
+        " Spread one side of half of the apple slices with peanut or almond butter then sprinkle with chocolate chips and granola.", 
+        
+        " Top with remaining apple slices, pressing down gently to make the sandwiches. Transfer to napkins or plates and serve."],
+
+        "ingredients": ["2 small apples, cored and cut crosswise into 1/2-inch thick rounds",
+        "1 teaspoon lemon juice, optional",
+        "3 tablespoons peanut or almond butter",
+        "2 tablespoons semisweet chocolate chips",
+        "3 tablespoons granola"],
+        "image": "http://assets.wholefoodsmarket.com/recipes/2535/2048/1536/2535-4.jpg"
+    },
+    {
+        "id": 4,
+        "recipe-name": "Peanut Butter Balls",
+        "steps-to-make-recipe": ["  Line a large baking sheet with parchment paper. In a large bowl, combine oats, coconut, chocolate chips, chia,flax, cinnamon, and salt. Stir in peanut butter, honey,vanilla, and 1 tablespoon milk. Mixture should be slightly crumbly. If it's too dry, gradually stir in up to 1 more tablespoon of milk.",
+        " With wet hands, roll mixture into small balls and place onto baking sheet. Refrigerate until chilled, 30 minutes."],
+        "ingredients": ["2/3 cup old fashioned oats", 
+        "1/4 cup unsweetened shredded coconut",
+        "2 tbsp. mini chocolate chips", 
+        "1 tbsp. chia seeds",
+        "1 tbsp. flax seeds",
+        "1/4 tsp. ground cinnamon", 
+        "pinch of kosher salt", 
+        "1/3 cup natural peanut butter",
+        "2 tbsp. honey", 
+        "1/4 tsp. pure vanilla extract", 
+        "2 tbsp. milk"],
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-202008-oatmealpeanutbutterproteinballs-031-ls-1628785384.jpg?resize=768:*"
+    },
+    {
+        "id": 5,
+        "recipe-name": "Cowboy Caviar",
+        "steps-to-make-recipe": [" In a small bowl, make dressing: Whisk together olive oil, lime juice, cilantro, hot sauce, cumin, and salt. Set aside.",
+        " In a large bowl, combine remaining ingredients. Toss with dressing until well combined. Serve with chips."],
+        "ingredients": [
+        "1/3 cup extra-virgin olive oil",
+        "1/3 cup lime juice",
+        "3 tbsp. chopped fresh cilantro",
+        "1 tbsp. hot sauce (such as Cholula)",
+        "1/2 tsp. cumin",
+        "1 tsp. kosher salt",
+        "1 cup black beans",
+        "1 small red onion, finely chopped",
+        "1 cup corn kernels",
+        "1 cup cherry tomatoes, quartered",
+        "1 cup black-eyed peas",
+        "2 orange bell peppers, chopped",
+        "1 avocado, chopped",
+        "Tortilla chips, for serving"],
+        "image": "https://www.dinneratthezoo.com/wp-content/uploads/2019/03/cowboy-caviar-final-2.jpg"
+    },
+    {
+        "id": 6,
+        "recipe-name": "Oven Fired Pickles",
+        "steps-to-make-recipe": ["  Preheat oven to 450° and line a large baking sheet with parchment paper. In a shallow bowl, stir together bread crumbs, dill, melted butter, garlic powder, and cayenne and season with salt and pepper. Put flour in another shallow bowl. In a third bowl, beat eggs.", 
+        " Working in batches, toss pickles in flour until lightly coated, then dip in eggs, then toss in panko mixture until fully coated.",
+        " Place pickles on prepared baking sheet and bake until golden and crispy, about 15 minutes.",
+        " (Optional) Serve with ranch."],
+        "ingredients": ["1 cup panko bread crumbs",
+        "1/4 cup freshly chopped dill",
+        "2 tbsp. melted butter",
+        "1/2 tsp. garlic powder",
+        "1/4 tsp. cayenne pepper",
+        "pinch of Kosher salt",
+        "Freshly ground black pepper",
+        "1/2 cup all-purpose flour",
+        "2 large eggs",
+        "1 cup pickle slices, patted dry with paper towels",
+        "Ranch dressing, for dipping"],
+        "image": "https://hips.hearstapps.com/vidthumb/images/oven-fried-pickles-horizontal-1520532590.jpg"
+    }
+    ]
+}
